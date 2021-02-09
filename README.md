@@ -38,6 +38,14 @@ Tools: Netbeans 8.2 with JDK 8
 
 <hr>
 
+Repo: <a href="https://github.com/weresponse/weresponse.github.io">https://github.com/weresponse/weresponse.github.io</a>
+#### To Do
+- [ ] Redesign
+- [ ] Improve the project
+- [ ] Add more emergency info
+
+<hr> 
+
 Repo: <a href="https://github.com/surpathcommunity/support">https://github.com/surpathcommunity/support</a>
 #### To Do
 - Share your project and ask for open source review
