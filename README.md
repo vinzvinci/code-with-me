@@ -12,7 +12,8 @@ Repo: <a href="https://github.com/surpathcommunity/surpathcommunity.github.io">h
 - [ ] List of Surpath repository
 - [ ] Founder & Moderator section
 
-Language: HTML, CSS, Bootstrap 4, JavaScript
+Language: HTML, CSS, Bootstrap 4, JavaScript<br>
+Tools: Visual Studio Code
 
 <hr>
 
@@ -22,7 +23,7 @@ Repo: <a href="https://github.com/vinzvinci/Guess-the-Pokemon">https://github.co
 - [ ] Enhancement 
 - [ ] Redesign
 
-Language: Java GUI
+Language: Java GUI<br>
 Tools: Netbeans 8.2 with JDK 8
 
 <hr>
@@ -33,7 +34,7 @@ Repo: <a href="https://github.com/vinzvinci/Shark-Quiz">https://github.com/vinzv
 - [ ] Improve the animation
 - [ ] Redesign
 
-Language: Java GUI
+Language: Java GUI<br>
 Tools: Netbeans 8.2 with JDK 8
 
 <hr>
@@ -44,9 +45,15 @@ Repo: <a href="https://github.com/weresponse/weresponse.github.io">https://githu
 - [ ] Improve the project
 - [ ] Add more emergency info
 
+Language: HTML, CSS, Bootstrap, JavaScript<br>
+Tools: Visual Studio Code 
+
 <hr> 
 
 Repo: <a href="https://github.com/surpathcommunity/support">https://github.com/surpathcommunity/support</a>
 #### To Do
 - Share your project and ask for open source review
 - Share your ideas to improve the community
+
+Language: Any<br>
+Tools: Any
