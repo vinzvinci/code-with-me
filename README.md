@@ -3,15 +3,20 @@ List of repository that you can contribute
 
 <hr>
 
-Project link: <a href="https://github.com/surpathcommunity/surpathcommunity.github.io">https://github.com/surpathcommunity/surpathcommunity.github.io</a>
+Repo: <a href="https://github.com/surpathcommunity/surpathcommunity.github.io">https://github.com/surpathcommunity/surpathcommunity.github.io</a>
 #### To Do
+- [ ] Wireframe
 - [ ] Design a website with HTML, CSS, Bootstrap 4, JavaScript
+- [ ] Add our logo
+- [ ] Introduction about our community
+- [ ] List of Surpath repository
+- [ ] Founder & Moderator section
 
 Language: HTML, CSS, Bootstrap 4, JavaScript
 
 <hr>
 
-Project link: <a href="https://github.com/vinzvinci/Guess-the-Pokemon">https://github.com/vinzvinci/Guess-the-Pokemon</a>
+Repo: <a href="https://github.com/vinzvinci/Guess-the-Pokemon">https://github.com/vinzvinci/Guess-the-Pokemon</a>
 #### To Do
 - [ ] Add more pokemon and levels
 - [ ] Enhancement 
@@ -22,7 +27,7 @@ Tools: Netbeans 8.2 with JDK 8
 
 <hr>
 
-Project link: <a href="https://github.com/vinzvinci/Shark-Quiz">https://github.com/vinzvinci/Shark-Quiz</a>
+Repo: <a href="https://github.com/vinzvinci/Shark-Quiz">https://github.com/vinzvinci/Shark-Quiz</a>
 #### To Do
 - [ ] Fix errors and enhancement
 - [ ] Improve the animation
@@ -30,3 +35,10 @@ Project link: <a href="https://github.com/vinzvinci/Shark-Quiz">https://github.c
 
 Language: Java GUI
 Tools: Netbeans 8.2 with JDK 8
+
+<hr>
+
+Repo: <a href="https://github.com/surpathcommunity/support">https://github.com/surpathcommunity/support</a>
+#### To Do
+- Share your project and ask for open source review
+- Share your ideas to improve the community
