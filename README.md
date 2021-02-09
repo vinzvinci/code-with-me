@@ -53,6 +53,7 @@ Tools: Visual Studio Code
 Repo: <a href="https://github.com/surpathcommunity/support">https://github.com/surpathcommunity/support</a>
 #### To Do
 - Share your project and ask for open source review
+- Create issues if you stuck on your codes
 - Share your ideas to improve the community
 
 Language: Any<br>
