@@ -1,60 +1,30 @@
 # Code with me
 List of repository that you can contribute
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Repo: <a href="https://github.com/surpathcommunity/surpathcommunity.github.io">https://github.com/surpathcommunity/surpathcommunity.github.io</a>
-#### To Do
-- [ ] Wireframe
-- [ ] Design a website with HTML, CSS, Bootstrap 4, JavaScript
-- [ ] Add our logo
-- [ ] Introduction about our community
-- [ ] List of Surpath repository
-- [ ] Founder & Moderator section
-
-Language: HTML, CSS, Bootstrap 4, JavaScript<br>
+Repo: <a href="https://github.com/SurPathHub/SurPathHub.github.io">https://github.com/SurPathHub/SurPathHub.github.io</a>
+Language & Framework: HTML, CSS, SCSS, JavaScript<br>
 Tools: Visual Studio Code
 
-<hr>
+<hr />
 
-Repo: <a href="https://github.com/vinzvinci/Guess-the-Pokemon">https://github.com/vinzvinci/Guess-the-Pokemon</a>
-#### To Do
-- [ ] Add more pokemon and levels
-- [ ] Enhancement 
-- [ ] Redesign
-
-Language: Java GUI<br>
+Repo: <a href="https://github.com/vinzvinci/Guess-the-Pokemon">Guess the Pokemon</a>
+Language: Java<br>
 Tools: Netbeans 8.2 with JDK 8
 
-<hr>
+<hr />
 
-Repo: <a href="https://github.com/vinzvinci/Shark-Quiz">https://github.com/vinzvinci/Shark-Quiz</a>
-#### To Do
-- [ ] Fix errors and enhancement
-- [ ] Improve the animation
-- [ ] Redesign
-
-Language: Java GUI<br>
+Repo: <a href="https://github.com/vinzvinci/Shark-Quiz">Shark Quiz</a>
+Language: Java<br>
 Tools: Netbeans 8.2 with JDK 8
 
-<hr>
+<hr />
 
-Repo: <a href="https://github.com/weresponse/weresponse.github.io">https://github.com/weresponse/weresponse.github.io</a>
-#### To Do
-- [ ] Redesign
-- [ ] Improve the project
-- [ ] Add more emergency info
+Repo: <a href="https://github.com/vinzvinci/Eddie-Bird">Eddie Bird</a>
+Language & Framework: HTML, CSS, JavaScript (Canvas API)<br>
+Tools: Visual Studio Code
 
-Language: HTML, CSS, Bootstrap, JavaScript<br>
-Tools: Visual Studio Code 
+<hr />
 
-<hr> 
-
-Repo: <a href="https://github.com/surpathcommunity/support">https://github.com/surpathcommunity/support</a>
-#### To Do
-- Share your project and ask for open source review
-- Create issues if you stuck on your codes
-- Share your ideas to improve the community
-
-Language: Any<br>
-Tools: Any
+#### Please wait me to update other repo.
